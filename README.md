@@ -14,14 +14,6 @@
 * run **npm test** for test all specs
 * run **./wdio.sh <spec_name>** for specific spec
 
-### Who do I talk to? ###
-
-* Repo owner or sbox team
-
-### Remote Desktop ###
-username : nostra/welcome1
-![Screen Shot 2016-12-14 at 12.24.28 PM.png](https://bitbucket.org/repo/BrEr9g/images/886359958-Screen%20Shot%202016-12-14%20at%2012.24.28%20PM.png)
-
 ### Useful Link ###
 * [http://webdriver.io/api.html](http://webdriver.io/api.html)
 * [https://mochajs.org/](https://mochajs.org/)
