@@ -1,6 +1,6 @@
 # README #
 
-* Sayurbox Automation Test
+* Sample Automation Test
 
 ### How do I get set up? ###
 
